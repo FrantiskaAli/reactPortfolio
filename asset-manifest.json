@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "//frantiskaali.github.io/frans-portfolio/static/css/main.e88e6374.css",
+    "main.js": "//frantiskaali.github.io/frans-portfolio/static/js/main.d5baf058.js",
+    "static/js/787.eba6c9f3.chunk.js": "//frantiskaali.github.io/frans-portfolio/static/js/787.eba6c9f3.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "//frantiskaali.github.io/frans-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "//frantiskaali.github.io/frans-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "//frantiskaali.github.io/frans-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Weather.jpg": "//frantiskaali.github.io/frans-portfolio/static/media/Weather.f40ff2ee15e46d19e1a7.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "//frantiskaali.github.io/frans-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "//frantiskaali.github.io/frans-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "//frantiskaali.github.io/frans-portfolio/index.html",
+    "main.e88e6374.css.map": "//frantiskaali.github.io/frans-portfolio/static/css/main.e88e6374.css.map",
+    "main.d5baf058.js.map": "//frantiskaali.github.io/frans-portfolio/static/js/main.d5baf058.js.map",
+    "787.eba6c9f3.chunk.js.map": "//frantiskaali.github.io/frans-portfolio/static/js/787.eba6c9f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e88e6374.css",
+    "static/js/main.d5baf058.js"
+  ]
+}
